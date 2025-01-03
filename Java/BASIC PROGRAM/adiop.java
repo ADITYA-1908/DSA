@@ -19,9 +19,11 @@ public class adiop {
         emp s1 = new emp();
         s1.id = 1;
         s1.name = "adi";
+
         emp s2 = new emp();
         s2.id = 2;
         s2.name = "subham";
+        
         s1.display();
         s2.display();
 

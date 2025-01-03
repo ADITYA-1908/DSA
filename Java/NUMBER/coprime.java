@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Two numbers A and B are said to be Co-Prime or mutually prime if the Greatest Common Divisor of them is 1.
 public class coprime
 {
     public static void main(String[] args)  

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//a positive integer that eventually reaches 1 when you repeatedly replace it with the sum of the squares of its digits
 public class happynum
 {
      public static void main(String[] args) 

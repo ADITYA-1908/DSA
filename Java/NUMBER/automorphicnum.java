@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//76-->76x76=5776--->last 2 digit 76 
 public class automorphicnum
 {
     public static void main(String[] args)
