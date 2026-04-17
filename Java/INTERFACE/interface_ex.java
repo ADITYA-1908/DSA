@@ -2,6 +2,7 @@ interface Client {
     void input();
     void output();
 }
+
 class aditya implements Client {
     String name;
     double sal;

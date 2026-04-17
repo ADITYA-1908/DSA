@@ -8,7 +8,7 @@ class bike
     }
 }
 public class final_method
-{
+{    
     public static void main(String[] args)
     {
         bike obj=new bike() ;

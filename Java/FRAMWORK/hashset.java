@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.HashSet;
 public class hashset {
     public static void main(String args[]) {
         // Creating HashSet and adding elements
